@@ -1,6 +1,10 @@
 # Urlshortener_django
 An application that generates a shorter URL using Python-Django. Hosted this application on Heroku.
 
+# Result Images
+![Main__page](https://user-images.githubusercontent.com/24228300/144216986-3b086ca1-8891-4686-86d7-1c7c49b9d7aa.PNG)
+![Results_page](https://user-images.githubusercontent.com/24228300/144216996-7a1705fe-df88-4de2-8734-2d91dd76e8a7.PNG)
+
 ```
 To run the Urlshortener_django app in your local system
 
