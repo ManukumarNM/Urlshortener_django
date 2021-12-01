@@ -10,7 +10,7 @@
               csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val(),
           },
           success: function(data){
-            $('h2').html("localhost:8000/"+data)
+            $('h2').html("www.urlshortenerdjango.tk"+data)
           }
       });
   });
